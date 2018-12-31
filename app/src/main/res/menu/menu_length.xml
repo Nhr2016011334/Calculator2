@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_index"
+        android:orderInCategory="100"
+        android:title="简单计算" />
+
+    <item
+        android:id="@+id/menu_hanshu"
+        android:orderInCategory="100"
+        android:title="科学计算" />
+
+    <item
+        android:id="@+id/menu_jinzhi"
+        android:title="进制转换"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/menu_weight"
+        android:orderInCategory="100"
+        android:title="质量换算" />
+
+    <item
+        android:id="@+id/menu_temperature"
+        android:orderInCategory="100"
+        android:title="温度换算" />
+
+    <item
+        android:id="@+id/menu_help"
+        android:title="帮助"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/menu_setting"
+        android:title="设置"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/menu_about"
+        android:title="关于"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/menu_exit"
+        android:title="返回"
+        android:orderInCategory="100" />
+</menu>
